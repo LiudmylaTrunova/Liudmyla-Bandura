@@ -1,1 +1,3 @@
 amaizing weather
+
+today
